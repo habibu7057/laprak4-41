@@ -21,7 +21,7 @@ class TodoList:
 
 # return function
 def return_names():
-    return ["Habib", "Sandy", "Yoyo"]
+    return ["Habib"]
 
 
 # non return function
