@@ -2,7 +2,7 @@
 
 ## Program
 
-Program yang dibuat adalah untuk berinteraksi dengan list di Python langsung lewat command line.
+Program yang dibuat adalah untuk berinteraksi dengan _list_ di Python langsung lewat command line.
 
 ## Anggota
 
