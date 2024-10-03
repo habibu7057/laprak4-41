@@ -7,3 +7,4 @@ Program yang dibuat adalah untuk berinteraksi dengan _list_ di Python langsung l
 ## Anggota
 
 1. Muhammad Habiburrahman (habibu7057)
+2. Willybrordus A G  (Will-StillStudent)
